@@ -1,4 +1,4 @@
-# Covid-19-Vaccination-SQL-Tableau
+# Vaccination-Data-Analysis-SQL-Tableau
 The project contains in-depth analysis of Covid Vaccinations in India, implemented using Excel &amp; SQL and visualized using Tableau
 
 The SQL analysis is implemented on Microsoft SQL Server.
